@@ -1,0 +1,27 @@
+El laboratorio de hoy tiene dos partes principales, de manera que se debe crear dos carpetas independientes
+
+Primera Parte:
+1. Revisar que su contribución al archivo del laboratorio anterior se encuentre en el archivo "todocurso.txt" de este repositorio (clase2).
+   Si esto no sucede haga el "pullRequest" correspondiente y asegurese de que aparezca en una nueva version del archivo
+2. Bajar el archivo todocurso.txt.  Tenga en cuenta que es probable que actualicemos el archivo durante la clase, de manera que puede ir trabajando con la version inicial, pero al final deberá correr el programa con la version definitiva, que el profesor indicará.
+3. Crear un programa usando PYTHON que haga lo siguiente
+   4.a Reciba el archivo todocurso.txt (en su version definitiva) y una palabra (esta palabra es parte la contribución hecha)
+   4.b Imprima el numero total de filas en el archivo
+   4.c Imprima el tamaño del archivo
+   4.d Imprima el número del renglon de la contribucion hecha
+   4.e Agregue una linea justo antes y otra linea justo despues de su contribucion con el alias suyo dentro del github. Si hay algo más que quiera decir puede hacerlo en el segundo reglón añadido.
+   4.f Cree un archivo nuevo llamado "total.txt" con todas las lineas de "todocurso.txt" incluyendo dos líneas adicionales
+Para lo anterior tenga en cuenta que, se debe abrir el archivo usando el comando "open", crear un ciclo con "while" or "for" y la información del archivo debe almacenarse en una lista o arreglo usando "numpy"
+
+
+
+Segunda Parte:
+Con ayuda del tutorial
+https://github.com/ComputoCienciasUniandes/MetodosComputacionales/blob/master/secciones/02.Python/matplotlib.ipynb
+4. escriba un programa que pinte dos círculos concéntricos de diferente color.
+
+
+
+5. En sicua subir un archivo MINOMBRE.zip, que contenga todas las carpetas y archivos, en el link correspondiente
+
+
